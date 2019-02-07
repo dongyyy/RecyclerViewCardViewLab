@@ -1,3 +1,3 @@
 # RecyclerViewCardViewLab
 
-The Way to use RecyclerView and CardView in android studio
+The way to use RecyclerView and CardView in Android Studio
